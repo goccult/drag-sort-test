@@ -4,5 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 运行 
 In the project directory, you can run:
+
 $yarn install || $npm install
+
 $yarn start 
